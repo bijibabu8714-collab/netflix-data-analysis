@@ -102,7 +102,6 @@ Compared the most common genres for Movies and TV Shows.
 - **TV-MA** is the most common rating, with **3,207 titles**.
 
 ---
-
 ## 📁 Project Structure
 
 ```text
@@ -117,36 +116,34 @@ netflix-data-analysis/
 ├── titles_added_over)time.png.png
 ├── top_countries.png.png
 └── top_genres.png.png
-📊 Project Visualizations
-Movies vs TV Shows
+```
 
-Titles Added Over Time
+## 📊 Project Visualizations
 
-time.png.png)
+### Movies vs TV Shows
 
-Top 10 Countries
+![Movies vs TV Shows](movies_vs_tv_shows.png.png)
 
-Ratings Analysis
+### Titles Added Over Time
 
-Top 10 Genres
+![Titles Added Over Time](titles_added_over)time.png.png)
 
-Duration Analysis
+### Top 10 Countries
 
-Summary KPIs
+![Top 10 Countries](top_countries.png.png)
 
+### Ratings Analysis
 
-### ⚠️ VERY IMPORTANT
+![Ratings Analysis](rating_analysis.png.png)
 
-When pasting, make sure:
+### Top 10 Genres
 
-- The **first** triple backticks surround **ONLY** the folder structure.
-- The line `## 📊 Project Visualizations` must be **outside** the code block.
-- The visualization image lines must be **outside** the code block.
-- There should be **no spaces before** `## 📊 Project Visualizations`.
+![Top 10 Genres](top_genres.png.png)
 
-Then commit:
+### Duration Analysis
 
-**Commit message:**
-`Fix README visualization formatting`
+![Duration Analysis](duration_analysis.png.png)
 
-After committing, send me the link again. I'll verify it.
+### Summary KPIs
+
+![Summary KPIs](summary_kpi.png.png)
