@@ -117,12 +117,8 @@ netflix-data-analysis/
 ├── titles_added_over)time.png.png
 ├── top_countries.png.png
 └── top_genres.png.png
-
 📊 Project Visualizations
 Movies vs TV Shows
-
-
-
 
 Titles Added Over Time
 
@@ -130,22 +126,27 @@ time.png.png)
 
 Top 10 Countries
 
-
-
-
 Ratings Analysis
-
-
-
 
 Top 10 Genres
 
-
-
-
 Duration Analysis
 
-
-
-
 Summary KPIs
+
+
+### ⚠️ VERY IMPORTANT
+
+When pasting, make sure:
+
+- The **first** triple backticks surround **ONLY** the folder structure.
+- The line `## 📊 Project Visualizations` must be **outside** the code block.
+- The visualization image lines must be **outside** the code block.
+- There should be **no spaces before** `## 📊 Project Visualizations`.
+
+Then commit:
+
+**Commit message:**
+`Fix README visualization formatting`
+
+After committing, send me the link again. I'll verify it.
