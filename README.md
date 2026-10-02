@@ -112,11 +112,3 @@ netflix-data-analysis/
 │
 └── netflix_analysis.ipynb
 
-
-### Commit the README
-
-At the bottom:
-
-**Commit message:**
-```text
-Add project documentation
