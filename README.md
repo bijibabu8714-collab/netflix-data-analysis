@@ -113,10 +113,9 @@ netflix-data-analysis/
 ├── movies_vs_tv_shows.png.png
 ├── rating_analysis.png.png
 ├── summary_kpi.png.png
-├── titles_added_over)time.png.png
+├── titles_added_over_time.png.png
 ├── top_countries.png.png
 └── top_genres.png.png
-```
 
 ## 📊 Project Visualizations
 
