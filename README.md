@@ -117,35 +117,35 @@ netflix-data-analysis/
 ├── titles_added_over)time.png.png
 ├── top_countries.png.png
 └── top_genres.png.png
-```
 
-## 📊 Project Visualizations
+📊 Project Visualizations
+Movies vs TV Shows
 
-### Movies vs TV Shows
 
-![Movies vs TV Shows](movies_vs_tv_shows.png.png)
 
-### Titles Added Over Time
 
-![Titles Added Over Time](titles_added_over)time.png.png)
+Titles Added Over Time
 
-### Top 10 Countries
+time.png.png)
 
-![Top 10 Countries](top_countries.png.png)
+Top 10 Countries
 
-### Ratings Analysis
 
-![Ratings Analysis](rating_analysis.png.png)
 
-### Top 10 Genres
 
-![Top 10 Genres](top_genres.png.png)
+Ratings Analysis
 
-### Duration Analysis
 
-![Duration Analysis](duration_analysis.png.png)
 
-### Summary KPIs
 
-![Summary KPIs](summary_kpi.png.png)
+Top 10 Genres
 
+
+
+
+Duration Analysis
+
+
+
+
+Summary KPIs
