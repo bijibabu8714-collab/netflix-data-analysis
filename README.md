@@ -116,7 +116,8 @@ netflix-data-analysis/
 ├── titles_added_over_time.png.png
 ├── top_countries.png.png
 └── top_genres.png.png
-```
+```text
+
 ## 📊 Project Visualizations
 
 ### Movies vs TV Shows
