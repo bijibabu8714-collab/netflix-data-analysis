@@ -121,30 +121,30 @@ netflix-data-analysis/
 ## 📊 Project Visualizations
 
 ### Movies vs TV Shows
-```text
+
 ![Movies vs TV Shows](movies_vs_tv_shows.png.png)
-```
+
 ### Titles Added Over Time
-```text
+
 ![Titles Added Over Time](titles_added_over_time.png.png)
-```
+
 ### Top 10 Countries
-```text
+
 ![Top 10 Countries](top_countries.png.png)
-```
+
 ### Ratings Analysis
-```text
+
 ![Ratings Analysis](rating_analysis.png.png)
-```
+
 ### Top 10 Genres
-```text
+
 ![Top 10 Genres](top_genres.png.png)
-```
+
 ### Duration Analysis
-```text
+
 ![Duration Analysis](duration_analysis.png.png)
-```
+
 ### Summary KPIs
-```text
+
 ![Summary KPIs](summary_kpi.png.png)
-```
+
