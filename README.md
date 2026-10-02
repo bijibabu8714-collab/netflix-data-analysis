@@ -109,28 +109,15 @@ Compared the most common genres for Movies and TV Shows.
 netflix-data-analysis/
 │
 ├── README.md
+├── netflix_analysis.ipynb
 │
-└── netflix_analysis.ipynb
+└── screenshots/
+    ├── movies_vs_tv_shows.png.png
+    ├── titles_added_over)time.png.png
+    ├── top_countries.png.png
+    ├── rating_analysis.png.png
+    ├── top_genres.png.png
+    ├── duration_analysis.png.png
+    └── summary_kpi.png.png
 
-## 📊 Project Visualizations
-
-### Movies vs TV Shows
-![Movies vs TV Shows](movies_vs_tv_shows.png.png)
-
-### Titles Added Over Time
-![Titles Added Over Time](titles_added_over)time.png.png)
-
-### Top 10 Countries
-![Top 10 Countries](top_countries.png.png)
-
-### Ratings Analysis
-![Ratings Analysis](rating_analysis.png.png)
-
-### Top 10 Genres
-![Top 10 Genres](top_genres.png.png)
-
-### Duration Analysis
-![Duration Analysis](duration_analysis.png.png)
-
-### Summary KPIs
-![Summary KPIs](summary_kpi.png.png)
+png.png)
