@@ -1,0 +1,2 @@
+# netflix-data-analysis
+Exploratory data analysis of Netflix Movies and TV Shows using Python, Pandas, and Matplotlib.
