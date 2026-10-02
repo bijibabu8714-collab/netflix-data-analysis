@@ -126,7 +126,7 @@ netflix-data-analysis/
 
 ### Titles Added Over Time
 
-![Titles Added Over Time]'''(titles_added_over)time.png.png)'''
+![Titles Added Over Time](titles_added_over_time.png.png)
 
 ### Top 10 Countries
 
